@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      },
+      "properties": {
+        "name": "Bangalore",
+        "type": "city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "name": "Mumbai",
+        "type": "city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.58, 12.96],
+            [77.60, 12.96],
+            [77.60, 12.98],
+            [77.58, 12.98],
+            [77.58, 12.96]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sample Area",
+        "type": "region"
+      }
+    }
+  ]
+}

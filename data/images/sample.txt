@@ -1,0 +1,1 @@
+# Place sample satellite images (GeoTIFF, JPEG) here for demo.

@@ -1,0 +1,12 @@
+streamlit
+chromadb
+sentence-transformers
+geopandas
+shapely
+rasterio
+matplotlib
+openai
+pillow
+folium
+scikit-learn
+requests

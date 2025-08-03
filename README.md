@@ -15,6 +15,8 @@ A Retrieval-Augmented Generation (RAG) system that combines geographic data, sat
 - HuggingFace Sentence Transformers (Embeddings)
 - GeoPandas, Shapely, rasterio (Geospatial)
 - OpenAI or HuggingFace LLM (Generation)
+  
+# Live Demo : https://georag-dc8zbkweapkemyez7rvyvb.streamlit.app/
 
 ## Setup
 ```bash
